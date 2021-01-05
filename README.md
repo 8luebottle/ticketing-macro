@@ -1,2 +1,2 @@
 # ticketing-macro
-side project | ticketing-macro
+ticketing-macro
